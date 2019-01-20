@@ -2,6 +2,8 @@
 #忽略model数据
 **/*.model/**
 **/image/**
+**/img/**
+**/trainData/**
 
 
 
